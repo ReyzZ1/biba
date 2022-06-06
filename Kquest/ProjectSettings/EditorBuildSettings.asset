@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: dab09a28951134cb1b4a73fd2cf79b18
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Hospital.unity
+    guid: 8edc168fa2f5a414fbc8b784652adc94
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: f7922728bf8ecae43b08cb279aa9f9be
+  - enabled: 1
+    path: Assets/Scenes/Bank.unity
+    guid: 5e1990896bdb3c040bcda8b3030f4b43
+  - enabled: 1
+    path: Assets/Scenes/Cafe.unity
+    guid: 312843b5224190f4d8b7a0384b92461f
+  - enabled: 1
+    path: Assets/Scenes/Gas Station.unity
+    guid: d4e28fdebcd38ab4a8a9b173df9a9105
+  - enabled: 1
+    path: Assets/Scenes/Gym.unity
+    guid: fb090de0dc57d8649b2892118ceec71b
+  - enabled: 1
+    path: Assets/Scenes/Prison.unity
+    guid: e10042308f31b1e40869eb38f35defa4
+  - enabled: 1
+    path: Assets/Scenes/TSC.unity
+    guid: 29a1bb4fc00a0ad49bda87fd46f94308
+  m_configObjects: {}
